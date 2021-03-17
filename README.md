@@ -1,4 +1,4 @@
-# Blog Sitesi V1
+# Laravel Vue
 ### Installation //Kurulum
 
 Laravel v8.12
